@@ -16,4 +16,4 @@ Na ocasião estava aprendendo a programar em Python em meados de 2019. Decidi cr
 ### Lista de Arquivos:
 
 * <b>ExerciciosPythonEstruturaSequencial:</b> Lista de Exercícios com Estruturas Sequenciais Resolvidos. <i>(.ipynb e .py)</i>
-* <b>ExerciciosPythonEstruturaDecisao:</b> Lista de Exercícios com Estruturas Sequenciais Resolvidos. <i>(.ipynb e .py)</i>
+* <b>ExerciciosPythonEstruturaDecisao:</b> Lista de Exercícios com Estruturas de Decisão Resolvidos. <i>(.ipynb e .py)</i>
