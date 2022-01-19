@@ -19,3 +19,5 @@ Na ocasião estava aprendendo a programar em Python em meados de 2019. Decidi cr
 * <b>ExerciciosPythonEstruturaSequencial:</b> Lista de Exercícios Resolvidos com Estruturas Sequenciais. <i>(.ipynb e .py)</i>
 * <b>ExerciciosPythonEstruturaDecisao:</b> Lista de Exercícios Resolvidos com Estruturas de Decisão. <i>(.ipynb e .py)</i>
 * <b>ExerciciosPythonEstruturaRepetição:</b> Lista de Exercícios Resolvidos com Estruturas de Repetição. <i>(.ipynb e .py)</i>
+* <b>ExerciciosPythonListas:</b> Lista de Exercícios Resolvidos com Listas e Dicionários. <i>(.ipynb e .py)</i>
+  * <b>arquivo.txt:</b> Resultado da saída do exercício 18 do ExerciciosPythonListas.
