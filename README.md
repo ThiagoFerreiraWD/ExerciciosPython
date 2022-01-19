@@ -22,3 +22,26 @@ Na ocasião estava aprendendo a programar em Python em meados de 2019. Decidi cr
 * <b>ExerciciosPythonListas:</b> Lista de Exercícios Resolvidos com Listas e Dicionários. <i>(.ipynb e .py)</i>
   * <b>arquivo.txt:</b> Resultado da saída do exercício 18 do ExerciciosPythonListas.
   * <b>usuarios.txt:</b> Arquivo necessário para resolução do exercício 23 do ExerciciosPythonListas.
+
+
+
+### Contatos:
+#
+<div>  
+  
+  <a href="https://www.linkedin.com/in/tferreirasilva/">
+    <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  </a>
+ 
+  <a href = "mailto:thiago.ferreirawd@gmail.com">
+      <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
+  </a>
+  
+  <a href = "https://www.facebook.com/thiago.ferreira.50746">
+    <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />
+  </a>
+ 
+  <a href = "https://github.com/ThiagoFerreiraWD">
+    <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  </a>     
+</div>
