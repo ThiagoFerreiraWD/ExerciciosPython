@@ -1,0 +1,15 @@
+Resultado da Votação: 
+
+Foram computados 16 votos.
+------------------------------
+Jogador     Votos         %
+------------------------------
+   1          1           6.2
+   7          2          12.5
+   8          1           6.2
+   9          5          31.2
+  10          6          37.5
+  11          1           6.2
+------------------------------
+
+O melhor jogador foi o número 10, com 6 votos, correspondendo a 38% do total de votos.
