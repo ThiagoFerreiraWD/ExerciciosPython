@@ -21,6 +21,9 @@ Na ocasião estava aprendendo a programar em Python em meados de 2019. Decidi cr
 * <b>ExerciciosPythonListas:</b> Lista de Exercícios Resolvidos com Listas e Dicionários. <i>(.ipynb e .py)</i>
   * <b>arquivo.txt:</b> Resultado da saída do exercício 18 do ExerciciosPythonListas.
   * <b>usuarios.txt:</b> Arquivo necessário para resolução do exercício 23 do ExerciciosPythonListas.
+* <b>ExerciciosPythonComStrings:</b> Lista de Exercícios de Strings Resolvidos. <i>(.ipynb e .py)</i>
+  * <b>ex11e14.txt:</b> Arquivo Utilizado nos Exercícios 11 e 14 [Lista de Palavras].
+  
 
 
 ### Contatos:
